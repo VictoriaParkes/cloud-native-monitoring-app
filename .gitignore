@@ -1,1 +1,1 @@
-# python3 -m pipreqs.pipreqs /Users/vparkes/GitHub_Repositories/projects/cloud-native-monitoring-app
+# python3 -m pipreqs.pipreqs --force /Users/vparkes/GitHub_Repositories/projects/cloud-native-monitoring-app
