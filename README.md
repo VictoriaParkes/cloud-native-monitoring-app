@@ -18,11 +18,11 @@
 
 ## 2. Development Process
 
-- [ ] build monitoring app in python using flask
-- [ ] containerize using Docker
-    - [ ] create Dockerfile
-    - [ ] build the image
-    - [ ] run the container locally
+- [x] build monitoring app in python using flask
+- [x] containerize using Docker
+    - [x] create Dockerfile
+    - [x] build the image
+    - [x] run the container locally
 - [ ] create ECR (elastic container registery)
 - [ ] push Docker image to ECR
 
